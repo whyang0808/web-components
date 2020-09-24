@@ -10,6 +10,7 @@
     "@accordproject/ui-concerto": "0.95.4",
     "@accordproject/ui-markdown-editor": "0.95.4",
     "@accordproject/ui-contract-editor": "0.95.4",
+    "@accordproject/ui-template-editor": "0.95.4",
     "@babel/cli": "7.10.3",
     "@babel/core": "7.10.3",
     "@babel/preset-env": "7.10.3",
